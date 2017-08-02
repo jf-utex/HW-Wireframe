@@ -10,6 +10,7 @@ body {
 }
 
 header {
+	color:purple;
   margin-top: 20px;
 	margin-left: 20px;
 	margin-bottom: 20px
@@ -24,21 +25,19 @@ header {
 	margin-left: 20px;
 	margin-bottom: 20px
   	margin-right: 30px;
-  	background: #ebebeb;
-  	color: #333;
-  	background: white;
+  	background: magenta;
   	float: center;
   	width: 960px;
 }
 
 #nav {
+
 	align-content: left
 	margin-top: 20px;
 	margin-left: 20px;
 	margin-bottom: 20px
   	margin-right: 30px;
-  	background: #ebebeb;
-  	color: #333;
+  	background: blue;
   	float: center;
   	width: 960px;
 }
@@ -49,8 +48,7 @@ header {
 	margin-left: 20px;
 	margin-bottom: 20px
   	margin-right: 30px;
-  	background: #ebebeb;
-  	color: #333;
+  	background: red;
   	float: left;
   	width: 960px;
 }
@@ -58,15 +56,15 @@ header {
 #h1 {
 }
 
-#p {
+#paragraph {
 }
 
-#aside {
+#BigBox {
 	margin-top: 20px;
 	margin-left: 20px;
 	margin-bottom: 20px
   	margin-right: 30px;
-  	background: #ebebeb;
+  	background: orange;
   	color: #333;
   	float: right;
   	width: 960px;
