@@ -6,6 +6,7 @@
 }
 
 body {
+  height: 150px;
 
 }
 
@@ -26,6 +27,7 @@ header {
 #section {
   color: black;
   background: #ebebeb;
+  height: 200px;
   width: 495px;
   border:25px;
   padding: 25px;
@@ -54,8 +56,8 @@ header {
 #aside {
   color: black;
   background: #ebebeb;
-  height: 290;
-  width: 300px;
+  height: 200px;
+  width: 465px;
   border:25px;
   padding: 25px;
   margin: 25px;
@@ -63,6 +65,7 @@ header {
 }
 footer {
   clear: both;
+  overflow: auto;
   color: black;
   background: #ebebeb;
   width: 960px;
